@@ -1,5 +1,34 @@
-# Courses-APP
-CRUD Operations and data validation.
+<h1 align="center">📘 Courses App</h1>
+
+<p align="center">
+  Full-stack courses management application (CRUD + data validation) with an Express/PostgreSQL backend and a React client.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge"/>
+</p>
+
+## ✨ Features
+
+- 🎓 Create, read, update and delete courses (CRUD)
+- ✅ Server-side data validation with Joi
+- 🔗 REST API with Express + Sequelize ORM
+- 🛡️ Security headers with Helmet, logging with Morgan
+- 🗄️ PostgreSQL persistence
+
+## 🛠️ Tech Stack
+
+- **Client:** React
+- **Server:** Node.js · Express · Sequelize
+- **Database:** PostgreSQL
+- **Tooling:** Joi · Helmet · Morgan
+
+---
+
 
 ## Setup
 
